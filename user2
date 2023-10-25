@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "name": "Void",
+    "username": "redhair_pirates",
+    "email": "Void@onepiece.to",
+    "address": {
+        "street": "kingdom of goa",
+        "suite": "sea port",
+        "city": "east blue",
+        "zipcode": "354-8870"        
+        }    
+}
