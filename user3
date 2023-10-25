@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "name": "CJ",
+    "username": "roger_pirates",
+    "email": "CJ@onepiece.to",
+    "address": {
+        "street": "kingdom of wano",
+        "suite": "flower capital",
+        "city": "grand line",
+        "zipcode": "555-1111"        
+        }    
+}
