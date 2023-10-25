@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "VKsquare",
+    "username": "strawhat_pirates",
+    "email": "VK@gaming.to",
+    "address": {
+        "street": "kingdom of goa",
+        "suite": "dadan's house",
+        "city": "east blue",
+        "zipcode": "354-8869"        
+        }    
+}
